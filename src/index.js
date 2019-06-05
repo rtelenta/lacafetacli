@@ -1,7 +1,7 @@
-const inquirer = require("inquirer");
+import { prompt } from "inquirer";
 
 (async () => {
-  const { framework } = await inquirer.prompt([
+  const { framework } = await prompt([
     {
       type: "list",
       message: "Pick the framework you want to use:",

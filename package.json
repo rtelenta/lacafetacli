@@ -1,6 +1,6 @@
 {
   "name": "cafetacli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lacfeta cli",
   "main": "./src/index.js",
   "bin": {
