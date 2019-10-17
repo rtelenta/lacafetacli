@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "fs": "0.0.1-security",
+    "inquirer": "^6.3.1",
+    "minimist": "^1.2.0"
   }
 }
